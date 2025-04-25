@@ -54,4 +54,4 @@ Welcome to a curated collection of tools, frameworks, and technologies across **
 ---
 
 🔗 **Connect & Explore:**  
-Made with ❤️ by [Your Name]
+Made with ❤️ by [EZHILARASU G]
