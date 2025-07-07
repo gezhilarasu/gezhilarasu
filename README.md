@@ -144,22 +144,6 @@ Creating robust data pipelines and analytics solutions for business intelligence
 
 ---
 
-## 🌈 Let's Connect & Collaborate!
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  ### 🚀 Ready to build something amazing together?
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  
-</div>
-
----
 
 <div align="center">
   
@@ -168,7 +152,5 @@ Creating robust data pipelines and analytics solutions for business intelligence
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
   **Made with ❤️ by EZHILARASU G**
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=EZHILARASU&color=blueviolet&style=for-the-badge&label=Profile+Views)
-  
+
 </div>
