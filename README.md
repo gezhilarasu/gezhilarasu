@@ -133,16 +133,7 @@ Creating robust data pipelines and analytics solutions for business intelligence
 
 ---
 
-## 🔥 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=EZHILARASU&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EZHILARASU&theme=radical&hide_border=true" width="400"/>
-  
-</div>
-
----
 
 
 <div align="center">
